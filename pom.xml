@@ -44,7 +44,7 @@
 		<poi.version>4.1.0</poi.version>
 		<ant.version>1.8.2</ant.version>
 		<bcp.version>1.60</bcp.version>
-		<jetty.version>9.2.28.v20190418</jetty.version>
+		<jetty.version>9.4.39.v20210325</jetty.version>
 	</properties>
 
 	<scm>
